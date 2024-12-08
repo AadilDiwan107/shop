@@ -1,2 +1,1 @@
-# shop
-shopping website is deployed
+hello this is our shopping store host website
